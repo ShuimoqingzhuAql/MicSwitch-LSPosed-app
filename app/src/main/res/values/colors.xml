@@ -1,0 +1,9 @@
+<resources>
+    <color name="surface">#F7F8FA</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="ink">#17202A</color>
+    <color name="muted">#667085</color>
+    <color name="accent">#146C94</color>
+    <color name="accent_soft">#E7F3F8</color>
+    <color name="line">#D9E1E8</color>
+</resources>

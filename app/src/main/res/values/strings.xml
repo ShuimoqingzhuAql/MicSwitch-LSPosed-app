@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">麦克风切换器</string>
+    <string name="xposed_description">像 Windows 录音设备选择一样，为启用 LSPosed 的应用指定首选输入设备。</string>
+</resources>
